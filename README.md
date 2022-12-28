@@ -1,4 +1,4 @@
-# RDA-MDA-in-2022-2
+# RDA-MDA-2022-2
 Data Analytics using R 
 
 - RDA practice 1
